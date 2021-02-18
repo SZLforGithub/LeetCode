@@ -1,5 +1,8 @@
 # LeetCode 筆記
 
+[![hackmd-github-sync-badge](https://hackmd.io/Y-wiu5cfR5OH8FmuIRD6bQ/badge)](https://hackmd.io/Y-wiu5cfR5OH8FmuIRD6bQ)
+
+
 ## [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) (2020/11/16)
 
 ### [solution by Louis](https://hackmd.io/@Louis-Su/HJaMmpycw)
